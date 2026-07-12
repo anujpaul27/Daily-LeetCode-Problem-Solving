@@ -14,3 +14,9 @@ let j=0;
    }
    return j+1
 };
+
+// for loops in js 
+for (let i =0; i<10; i++)
+{
+    console.log(i) // it's should output is 1-> 10 
+}
