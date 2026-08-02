@@ -17,4 +17,12 @@ ar.length =index
 const sortedArr = [... new Set(ar)]
 console.log(sortedArr);
 
+// now i can solve with set data structure
+const sortedArr = [... new Set(ar)]
+console.log(sortedArr);
+
+// now i can solve with set data structure
+const sortedArr = [... new Set(ar)]
+console.log(sortedArr);
+
 
