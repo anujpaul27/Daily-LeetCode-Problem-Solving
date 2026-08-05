@@ -1,4 +1,5 @@
 /**
+ * QN: Array Left Rotation by one step 
  * What is array left rotation 
  * arr = [1,2,3,4,5]
  * output -> 2,3,4,5,1
