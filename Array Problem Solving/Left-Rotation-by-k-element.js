@@ -14,3 +14,4 @@ for (let i=0; i<k; i++)
 }
 
 console.log(ar);
+// now code is that now i will fix it 
